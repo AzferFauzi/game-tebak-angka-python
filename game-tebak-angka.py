@@ -2,7 +2,7 @@
 print("TEBAK TEBAKAN ANGKA\n")
 
 # angka yang harus di tebak
-angka_tebakan = 33
+angka_tebakan = 69
 
 # inputan user untuk menebak angka dan rules
 print("Maksimal penebakan angka hanya 8 kali")
